@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "aaaa"
   s.homepage     = "http://www.baidu.com"
   s.license      = "MIT"
-  s.author             = { "Kratos" => "461400226@qq.com" }
+  s.author       = { "Kratos" => "461400226@qq.com" }
 
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/Kratos28/aaa.git", :tag => "1.0.0" }
